@@ -16,6 +16,7 @@ namespace KampIntro
             double dolarDun = 7.35;
             double dolarBugun = 7.35;
 
+
             if (dolarDun>dolarBugun)
             {
                 Console.WriteLine("Azazlış Görseli");
