@@ -22,7 +22,7 @@ namespace ClassIntro
             Kurs kurs3 = new Kurs();
             kurs3.KursAdi = "Phyton";
             kurs3.Egitmen = "Berkay Bilgin";
-            kurs3.IzlenmeOranı = 80;
+            kurs3.IzlenmeOranı = 85;
 
             //Console.WriteLine(kurs1.KursAdi + " " + kurs1.Egitmen);
 
