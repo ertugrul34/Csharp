@@ -24,7 +24,17 @@ namespace Metotlar
                 Console.WriteLine(urun.Adi + " " + urun.Fiyati + " " + urun.Aciklama);
             }
 
-            
+
+            Console.WriteLine("-------------Metotlar--------------");
+
+            SepetManager sepetManager = new SepetManager();
+
+            sepetManager.Ekle(urun1);
+            sepetManager.Ekle(urun2);
+
+            sepetManager.Ekle2("armut", "yeşil armut", 12);
+
+
 
         }
     }
