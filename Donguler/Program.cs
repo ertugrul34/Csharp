@@ -24,7 +24,7 @@ namespace Donguler
 
 
 
-            Console.WriteLine("Sayfa Sonu");        
+            Console.WriteLine("Sayfa Sonu.");        
         }
     }
 }
