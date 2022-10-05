@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{93898E8C-577B-4D49-AEB7-45186C22BE5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{47317003-33DE-465F-B607-9B3916D5B90F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{93898E8C-577B-4D49-AEB7-45186C22BE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93898E8C-577B-4D49-AEB7-45186C22BE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93898E8C-577B-4D49-AEB7-45186C22BE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47317003-33DE-465F-B607-9B3916D5B90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47317003-33DE-465F-B607-9B3916D5B90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47317003-33DE-465F-B607-9B3916D5B90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47317003-33DE-465F-B607-9B3916D5B90F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
