@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{38710639-EC3F-4317-BBC0-A1A8E886AD6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{ED491F08-5CA8-4BF2-A7CC-1C229E9518E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{38710639-EC3F-4317-BBC0-A1A8E886AD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38710639-EC3F-4317-BBC0-A1A8E886AD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38710639-EC3F-4317-BBC0-A1A8E886AD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED491F08-5CA8-4BF2-A7CC-1C229E9518E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED491F08-5CA8-4BF2-A7CC-1C229E9518E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED491F08-5CA8-4BF2-A7CC-1C229E9518E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED491F08-5CA8-4BF2-A7CC-1C229E9518E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
